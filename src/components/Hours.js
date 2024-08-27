@@ -14,7 +14,7 @@ const Hours = () => {
     return (
         <div style={{ padding: '10px' }}>
             <h2 style={{ color: '#007bff', letterSpacing: '0.05em' }}>Horario de hoy</h2>
-            <p style={{ color: '#000', letterSpacing: '0.05em' }}>{hours}</p>
+            <p style={{ color: '#000000', letterSpacing: '0.05em' }}>{hours}</p>
         </div>
     );
 };
